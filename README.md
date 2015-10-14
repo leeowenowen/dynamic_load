@@ -1,1 +1,3 @@
 # dynamic_load
+android和java代码进行动态加载的实例,验证了不同的classloader加载同一个jar包.
+jar包中的全局变量也是多份的.
